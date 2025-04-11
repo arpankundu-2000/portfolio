@@ -10,8 +10,8 @@ st.set_page_config(page_title="My Portfolio", page_icon="💼", layout="wide")
 # Sidebar
 with st.sidebar:
     #st.image(profile_pic, width=150)
-    st.title("Your Name")
-    st.write("📍 Location")
+    st.title("Arpan Kundu")
+    st.write("📍 Kolkata")
     st.write("📧 your.email@example.com")
     st.write("🔗 [LinkedIn](https://linkedin.com/in/yourprofile)")
     st.write("🐦 [Twitter](https://twitter.com/yourhandle)")
